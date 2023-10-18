@@ -18,8 +18,8 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Sandblow/command-line-task-manager.git
-cd command-line-task-manager
+git clone https://github.com/Sandblow/cmdtaskmanager.git
+cd cmdtaskmanager
 Ensure you have Python 3.8 or above installed. You can check using:
 bash
 Copy code
